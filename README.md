@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Pavan Maddula 👋</h1>
-<h3 align="center">I'm a Web Developer based in India, deeply passionate about Generative AI.</h3>
+<h1 align="center">Hi, I'm Pavan 👋</h1>
+<h3 align="center">I'm a Web Developer based in India, deeply passionate about Artificial Intelligence, Generative AI and Prompt Engineering</h3>
 
-- 🔭 I’m currently working on **MSME - Supply Chain Management Project**
+- ⭐ I’m currently working on **MSME - Supply Chain Management Project**
 
-- 👯 I’m looking to collaborate on **Projects Based on AI & ML**
+- 🔭 I’m looking to collaborate on **Projects Based on AI & ML**
 
 - 📝 I regularly write articles on [https://pavanmaddula.hashnode.dev/](https://pavanmaddula.hashnode.dev/)
 
@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://twitter.com/pavanmaddula6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pavanmaddula6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maddula-pavan-gopinadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maddula-pavan-gopinadh" height="30" width="40" /></a>
-<a href="https://dribbble.com/pav1designs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="pav1designs" height="30" width="40" /></a>
 <a href="https://hashnode.com/@pavanmaddula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@pavanmaddula" height="30" width="40" /></a>
 </p>
 
