@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pavan 👋</h1>
-<h3 align="center">I'm a Web Developer based in India, deeply passionate about Generative AI </h3>
+<h3 align="center">I'm a Web Designer based in India, deeply passionate about Generative AI </h3>
 
 - ⭐ I’m currently working on **MSME - Supply Chain Management Project**
 
