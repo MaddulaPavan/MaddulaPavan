@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Pavan 👋</h1>
 <h3 align="center">I'm a Web Designer based in India, deeply passionate about Generative AI </h3>
 
-- ⭐ I’m currently working on **MSME - Supply Chain Management Project**
-
 - 🔭 I’m looking to collaborate on **Projects Based on AI & ML**
 
 - 📝 I regularly write articles on [https://pavanmaddula.hashnode.dev/](https://pavanmaddula.hashnode.dev/)
