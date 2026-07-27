@@ -1,0 +1,57 @@
+# Pavan Maddula
+
+**AI Safety Researcher — Red-Teaming, Evaluation & Robustness in Language Models**
+
+Bhimavaram, India · [Portfolio](http://www.pavanmaddula.com) · [LinkedIn](https://www.linkedin.com/in/maddula-pavan/) · [Google Scholar](https://scholar.google.com/citations?user=oSYYRssAAAAJ&hl=en&oi=ao) · mpavangopinadh@gmail.com
+
+---
+
+## About
+
+CS undergraduate (B.Tech, Vishnu Institute of Technology, 2022–2026) working on how large language models fail under adversarial pressure, non-standard inputs, and reward optimization — and what that reveals about gaps in current alignment evaluation. Research conducted independently, without an institutional lab or advisor. Work accepted at **ICLR 2026**, **ACL 2026**, and **AMRIT 2024**, with two further papers under review. Across these projects, led 16,800+ model evaluations covering jailbreak robustness, representation-shift attacks, and RLHF fairness.
+
+Official Grantee, Adaption Research Grant Program 2026 (inaugural cohort). Seeking full-time AI Researcher / Research Engineer roles; open to relocation.
+
+## Research
+
+**Procedural Fairness Failures in RLHF from Preference Averaging**
+*ICLR 2026 — AFAA Workshop*
+Identified a structural fairness failure where preference averaging in RLHF suppresses minority preference groups. Proposed Preference-Aware RLHF (PA-RLHF), improving alignment accuracy from 46.9% to 67.9% and reducing the fairness gap from 15.9 to 9.6 pp.
+
+**Are LLMs Safe Beyond Text? Do Emojis Expose Gaps in Safety Evaluation**
+*ACL 2026 — EvalEval Workshop*
+Adversarial evaluation of Mistral-7B, Qwen-2-7B, Gemma-2-9B, and LLaMA-3-8B under emoji-augmented prompts. Found 0–10% jailbreak success rates, with statistically significant differences between models (χ² = 32.94, p < 0.001).
+
+**Regional Bias in Large Language Models**
+*AMRIT 2024 · [arXiv:2601.16349](https://arxiv.org/abs/2601.16349)*
+Designed FAZE, a context-neutral forced-choice framework for quantifying regional bias, applied across 10 LLMs (1,000 responses). Found 3.8× variation in bias scores that did not decrease with model scale.
+
+**The Representational Blind Spot in LLM Evaluation** *(under review)*
+Large-scale study of representation-shift attacks: 16,800 evaluations across 8 LLMs and 7 prompt families, run in one week. Found near-zero cross-family attack transferability in 89.2% of model pairs.
+
+**Endogenous Oversight Failure in Self-Auditing AI Systems** *(under review)*
+Proposed a continuous self-auditing framework for multi-turn compliance monitoring, and identified Endogenous Oversight Failure — a mode where audit signals degrade when the auditor is optimized alongside the policy it evaluates.
+
+Full publication list on [Google Scholar](https://scholar.google.com/citations?user=oSYYRssAAAAJ&hl=en&oi=ao).
+
+## Experience
+
+**Applied AI Intern, Twimbit** (Singapore, remote) — Jul 2025 – Nov 2025
+Built an end-to-end AI recruitment pipeline (n8n) that scores candidates against an HR-validated rubric and auto-schedules interviews, and a vendor research agent that turns daily enterprise/semiconductor/cloud news into structured executive briefings via LLM APIs.
+
+## Skills
+
+**Research:** Adversarial evaluation, jailbreak benchmarking, abuse pattern detection, RLHF fairness, scalable oversight
+**Stack:** Python, Hugging Face, vLLM, OpenAI/Anthropic APIs, scipy/statsmodels, JSONL pipelines
+
+## Awards & Honors
+
+- Official Grantee, Adaption Research Grant Program 2026 (Inaugural Cohort)
+- Best Project Award, Dept. of Computer Science & Engineering, Vishnu Institute of Technology
+- Participant, BlueDot Impact Technical AI Safety Course 2026
+- 4× Hackathon Winner, 4× National-level Grand Finalist (incl. Amaravathi Quantum Valley Hackathon 2025, Smart India Hackathon 2024, 2× Google Hackathons)
+- Selected, ACM India Summer & Winter Schools 2024 & 2025 (IIT Madras, IISc, IIT Gandhinagar, SRM AP)
+
+## Contact
+
+mpavangopinadh@gmail.com · [Portfolio](http://www.pavanmaddula.com) · [LinkedIn](https://www.linkedin.com/in/maddula-pavan/) · [Google Scholar](https://scholar.google.com/citations?user=oSYYRssAAAAJ&hl=en&oi=ao)
