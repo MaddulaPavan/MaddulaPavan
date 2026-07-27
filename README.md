@@ -1,4 +1,4 @@
-# Pavan Maddula
+# Pavan Maddula (M P V S Gopinadh)
 
 **AI Safety Researcher — Red-Teaming, Evaluation & Robustness in Language Models**
 
