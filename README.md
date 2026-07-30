@@ -8,9 +8,9 @@ Bhimavaram, India · [Portfolio](http://www.pavanmaddula.com) · [LinkedIn](http
 
 ## About
 
-CS undergraduate (B.Tech, Vishnu Institute of Technology, 2022–2026) working on how large language models fail under adversarial pressure, non-standard inputs, and reward optimization — and what that reveals about gaps in current alignment evaluation. Research conducted independently, without an institutional lab or advisor. Work accepted at **ICLR 2026**, **ACL 2026**, and **AMRIT 2024**, with two further papers under review. Across these projects, led 16,800+ model evaluations covering jailbreak robustness, representation-shift attacks, and RLHF fairness.
+CS undergraduate (B.Tech, Vishnu Institute of Technology, 2022–2026) working on how large language models fail under adversarial pressure, non-standard inputs, and reward optimization — and what that reveals about gaps in current alignment evaluation. Research conducted independently, without an institutional lab or advisor. Work accepted at **ICLR 2026**, **ACL 2026**, and **AMRIT 2024**.
 
-Official Grantee, Adaption Research Grant Program 2026 (inaugural cohort). Seeking full-time AI Researcher / Research Engineer roles; open to relocation.
+Seeking full-time AI Researcher / Research Engineer roles; open to relocation.
 
 ## Research
 
