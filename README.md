@@ -1,16 +1,14 @@
 # Pavan Maddula (M P V S Gopinadh)
 
-**AI Safety Researcher — Red-Teaming, Evaluation & Robustness in Language Models**
+**AI Researcher — Red-Teaming, Model Evaluation & Adversarial Robustness**
 
 Bhimavaram, India · [Portfolio](http://www.pavanmaddula.com) · [LinkedIn](https://www.linkedin.com/in/maddula-pavan/) · [Google Scholar](https://scholar.google.com/citations?user=oSYYRssAAAAJ&hl=en&oi=ao) · mpavangopinadh@gmail.com
 
 ---
 
-## About
+## Summary
 
-CS undergraduate (B.Tech, Vishnu Institute of Technology, 2022–2026) working on how large language models fail under adversarial pressure, non-standard inputs, and reward optimization — and what that reveals about gaps in current alignment evaluation. Research conducted independently, without an institutional lab or advisor. Work accepted at **ICLR 2026**, **ACL 2026**, and **AMRIT 2024**.
-
-Seeking full-time AI Researcher / Research Engineer roles; open to relocation.
+AI researcher focused on red-teaming, model evaluation, and adversarial robustness, especially where AI models and systems fail. Works include jailbreaking, studying how models fail under representation shifts, RLHF failures, bias and fairness with accepted work at ICLR 2026 (AFAA Workshop) and ACL 2026 (EvalEval Workshop). Inaugural Adaption Research Grant grantee; B.Tech Computer Science 2026 (awaiting graduation). Experience building production AI and LLM systems (Applied AI Intern, Twimbit). Seeking full-time research roles; open to relocation.
 
 ## Research
 
@@ -54,4 +52,4 @@ Built an end-to-end AI recruitment pipeline (n8n) that scores candidates against
 
 ## Contact
 
-mpavangopinadh@gmail.com · [Portfolio](http://www.pavanmaddula.com) · [LinkedIn](https://www.linkedin.com/in/maddula-pavan/) · [Google Scholar](https://scholar.google.com/citations?user=oSYYRssAAAAJ&hl=en&oi=ao)
+mpavangopinadh@gmail.com · [Portfolio](http://www.pavanmaddula.com) · [LinkedIn](https://www.linkedin.com/in/maddula-pavan/) · [Google Scholar](https://scholar.google.com/citations?user=oSYYRssAAAAJ&hl=en&oi=ao) · [ORCID](https://orcid.org/0009-0000-9352-488X) 
