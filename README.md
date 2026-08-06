@@ -24,12 +24,6 @@ Adversarial evaluation of Mistral-7B, Qwen-2-7B, Gemma-2-9B, and LLaMA-3-8B unde
 *AMRIT 2024 · [arXiv:2601.16349](https://arxiv.org/abs/2601.16349)*
 Designed FAZE, a context-neutral forced-choice framework for quantifying regional bias, applied across 10 LLMs (1,000 responses). Found 3.8× variation in bias scores that did not decrease with model scale.
 
-**The Representational Blind Spot in LLM Evaluation** *(under review)*
-Large-scale study of representation-shift attacks: 16,800 evaluations across 8 LLMs and 7 prompt families, run in one week. Found near-zero cross-family attack transferability in 89.2% of model pairs.
-
-**Endogenous Oversight Failure in Self-Auditing AI Systems** *(under review)*
-Proposed a continuous self-auditing framework for multi-turn compliance monitoring, and identified Endogenous Oversight Failure — a mode where audit signals degrade when the auditor is optimized alongside the policy it evaluates.
-
 Full publication list on [Google Scholar](https://scholar.google.com/citations?user=oSYYRssAAAAJ&hl=en&oi=ao).
 
 ## Experience
