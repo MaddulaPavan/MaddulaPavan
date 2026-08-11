@@ -8,7 +8,7 @@ Bhimavaram, India · [Portfolio](http://www.pavanmaddula.com) · [LinkedIn](http
 
 ## Summary
 
-AI researcher focused on red-teaming, model evaluation, and adversarial robustness, especially where AI models and systems fail. Works include jailbreaking, studying how models fail under representation shifts, RLHF failures, bias and fairness with accepted work at ICLR 2026 (AFAA Workshop) and ACL 2026 (EvalEval Workshop). Inaugural Adaption Research Grant grantee; B.Tech Computer Science 2026 (awaiting graduation). Experience building production AI and LLM systems (Applied AI Intern, Twimbit). Seeking full-time research roles; open to relocation.
+AI researcher focused on AI models / AI Agents evaluation, red-teaming and adversarial robustness, especially where they fail. Works include jailbreaking, studying how models fail under representation shifts, RLHF failures, bias and fairness with accepted work at ICLR 2026 (AFAA Workshop) and ACL 2026 (EvalEval Workshop). Inaugural Adaption Research Grant grantee; B.Tech Computer Science 2026 (awaiting graduation). Experience building production AI and LLM systems (Applied AI Intern, Twimbit). Seeking full-time research roles; open to relocation.
 
 ## Research
 
