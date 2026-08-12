@@ -33,8 +33,8 @@ Built an end-to-end AI recruitment pipeline (n8n) that scores candidates against
 
 ## Skills
 
-**Research:** Model Evaluation, Adversarial testing, jailbreak benchmarking, model behaviour and patterns, RLHF failures, bias and fairness
-**Stack:** Python, Hugging Face, vLLM, OpenAI/Anthropic APIs, scipy/statsmodels, JSONL pipelines
+**Research:** AI Agents & Model Evaluation, Model Behaviour, Red Teaming, Benchmarking, Adversarial Robustness
+**Stack:** Python, Git, Docker, React, Ollama, vLLM, n8n, Hugging Face Transformers, Inspect AI, APIs
 
 ## Awards & Honors
 
