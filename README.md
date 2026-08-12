@@ -1,6 +1,6 @@
 # Pavan Maddula (M P V S Gopinadh)
 
-**AI Researcher — Red-Teaming, Model Evaluation & Adversarial Robustness**
+**AI Researcher**
 
 Bhimavaram, India · [Portfolio](http://www.pavanmaddula.com) · [LinkedIn](https://www.linkedin.com/in/maddula-pavan/) · [Google Scholar](https://scholar.google.com/citations?user=oSYYRssAAAAJ&hl=en&oi=ao) · mpavangopinadh@gmail.com
 
