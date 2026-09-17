@@ -1,4 +1,4 @@
-# Pavan Maddula (M P V S Gopinadh)
+# Pavan Maddula
 
 **AI Researcher**
 
