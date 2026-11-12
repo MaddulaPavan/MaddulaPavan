@@ -1,49 +1,63 @@
 # Pavan Maddula
 
-**AI Researcher**
+**AI Research Engineer · Evals & AI Safety**
 
-Bhimavaram, India · [Portfolio](http://www.pavanmaddula.com) · [LinkedIn](https://www.linkedin.com/in/maddula-pavan/) · [Google Scholar](https://scholar.google.com/citations?user=oSYYRssAAAAJ&hl=en&oi=ao) · mpavangopinadh@gmail.com
+India · [pavanmaddula.com](https://pavanmaddula.com) · [LinkedIn](https://www.linkedin.com/in/maddula-pavan/) · [Google Scholar](https://scholar.google.com/citations?user=oSYYRssAAAAJ&hl=en) · [X](https://x.com/PavanBuilds) · mpavangopinadh@gmail.com
 
 ---
 
-## Summary
+I work on AI agent and model evaluations, with a focus on model behaviour, agentic decision-making, adversarial robustness, and red-teaming. My current research is about how models and agents behave in real-world, tool-using, and high-stakes environments. Papers at NeurIPS 2026 (EvoRobust), ICLR 2026 (AFAA), and ACL 2026 (EvalEval) workshops. Inaugural Adaption Research Grant grantee.
 
-AI researcher focused on AI models / AI Agents evaluation, red-teaming and adversarial robustness, especially where they fail. Works include jailbreaking, studying how models fail under representation shifts, RLHF failures, bias and fairness with accepted work at ICLR 2026 (AFAA Workshop) and ACL 2026 (EvalEval Workshop). Inaugural Adaption Research Grant grantee; B.Tech Computer Science 2026 (awaiting graduation). Experience building production AI and LLM systems (Applied AI Intern, Twimbit). Seeking full-time research roles; open to relocation.
+Looking for AI researcher and research engineering roles. Open to relocation or remote.
 
 ## Research
 
+**Quad-State Safety Evaluation of Open-Weight Large Language Models on Non-Canonical Inputs**
+*NeurIPS 2026 Workshop (EvoRobust)* · [arXiv](https://arxiv.org/abs/2610.09033) · [Project site](https://pavanmaddula.com/quadstate)
+Evaluates how open-weight language models respond to harmful requests written in non-canonical forms such as emojis, leetspeak, homoglyphs, Base64, and invisible Unicode. Introduces the Adversarial Surface-Form Robustness Dataset (ASRD) and the Quad-State Evaluation Rubric.
+
+**Lookup Is Not All You Need**
+*NeurIPS 2026 Workshop (EvoRobust)* · arXiv soon
+Evaluates whether tool-using AI agents check the available information before committing to an action in high-stakes environments across military, cybersecurity, healthcare, and governance.
+
 **Procedural Fairness Failures in RLHF from Preference Averaging**
-*ICLR 2026 — AFAA Workshop*
-Identified a structural fairness failure where preference averaging in RLHF suppresses minority preference groups. Proposed Preference-Aware RLHF (PA-RLHF), improving alignment accuracy from 46.9% to 67.9% and reducing the fairness gap from 15.9 to 9.6 pp.
+*ICLR 2026 Workshop (AFAA)* · [arXiv](https://arxiv.org/abs/2608.10126) · [OpenReview](https://openreview.net/forum?id=pApYPU5Scw)
+Shows that averaging heterogeneous preferences into one reward model lets majority preferences dominate. Preference-Aware RLHF (PA-RLHF) raises alignment accuracy from 46.9% to 67.9% and cuts the fairness gap from 15.9 to 9.6 points.
 
-**Are LLMs Safe Beyond Text? Do Emojis Expose Gaps in Safety Evaluation**
-*ACL 2026 — EvalEval Workshop*
-Adversarial evaluation of Mistral-7B, Qwen-2-7B, Gemma-2-9B, and LLaMA-3-8B under emoji-augmented prompts. Found 0–10% jailbreak success rates, with statistically significant differences between models (χ² = 32.94, p < 0.001).
+**Are LLMs Safe Beyond Text: Do Emojis Expose Gaps in Safety Evaluation**
+*ACL 2026 Workshop (EvalEval)* · [arXiv](https://arxiv.org/abs/2608.18164) · [OpenReview](https://openreview.net/forum?id=Z6wHSbEmMn)
+Evaluates 50 emoji-augmented prompts on Mistral 7B, Qwen 2 7B, Gemma 2 9B, and Llama 3 8B. Jailbreak success ranges from 0% to 10%, with significant differences between models (χ² = 32.94, p < 0.001).
 
-**Regional Bias in Large Language Models**
-*AMRIT 2024 · [arXiv:2601.16349](https://arxiv.org/abs/2601.16349)*
-Designed FAZE, a context-neutral forced-choice framework for quantifying regional bias, applied across 10 LLMs (1,000 responses). Found 3.8× variation in bias scores that did not decrease with model scale.
+**Standoff O1: Evidence-Grounded Decision-Making of AI Agents in High-stakes Environments**
+*Independent Research* · [Code](https://github.com/MaddulaPavan/Standoff-O1)
+Asks whether tool-using agents check key information before a high-stakes decision, scoring evidence gathering and action accuracy separately. Evidence gathering ranges from 22.2% to 100% across three models.
 
-Full publication list on [Google Scholar](https://scholar.google.com/citations?user=oSYYRssAAAAJ&hl=en&oi=ao).
+Complete details of all research and projects: **[pavanmaddula.com/work](https://pavanmaddula.com/work)**
 
 ## Experience
 
-**Applied AI Intern, Twimbit** (Singapore, remote) — Jul 2025 – Nov 2025
-Built an end-to-end AI recruitment pipeline (n8n) that scores candidates against an HR-validated rubric and auto-schedules interviews, and a vendor research agent that turns daily enterprise/semiconductor/cloud news into structured executive briefings via LLM APIs.
+**Applied AI Intern, Twimbit** (Singapore team, remote) · Jul 2025 – Nov 2025
+Built an AI-powered recruitment system using agents and automations for candidate sourcing, resume screening, and evaluation, and a vendor research agent that turns client news into structured insights.
+
+## Education
+
+**B.Tech, Computer Science and Engineering**, Vishnu Institute of Technology, Bhimavaram · 2022 – 2026 · CGPA 8.3 / 10
 
 ## Skills
 
-**Research:** AI Agents & Model Evaluation, Model Behaviour, Red Teaming, Benchmarking, Adversarial Robustness
-**Stack:** Python, Git, Docker, React, Ollama, vLLM, n8n, Hugging Face Transformers, Inspect AI, APIs
+**Research:** Model and agent evaluation, red-teaming, adversarial robustness, benchmarking, model behaviour
+**Stack:** Python, Inspect AI, Hugging Face Transformers, vLLM, Ollama, Docker, Git, React, n8n
 
 ## Awards & Honors
 
 - Official Grantee, Adaption Research Grant Program 2026 (Inaugural Cohort)
-- Best Project Award, Dept. of Computer Science & Engineering, Vishnu Institute of Technology
-- Participant, BlueDot Impact Technical AI Safety Course 2026
-- 4× Hackathon Winner, 4× National-level Grand Finalist (incl. Amaravathi Quantum Valley Hackathon 2025, Smart India Hackathon 2024, 2× Google Hackathons)
-- Selected, ACM India Summer & Winter Schools 2024 & 2025 (IIT Madras, IISc, IIT Gandhinagar, SRM AP)
+- Best Project Award, CSE, Vishnu Institute of Technology (PA-RLHF)
+- Winner, Amaravati Quantum Valley Hackathon Grand Finals 2025
+- Winner, Internal Smart India Hackathon 2025
+- BlueDot Impact Technical AI Safety Project (September 2026)
+- Delegate, HPAIR Harvard Conference, Harvard University
+- Selected, ACM India Summer & Winter Schools 2024 & 2025
 
 ## Contact
 
-mpavangopinadh@gmail.com · [Portfolio](http://www.pavanmaddula.com) · [LinkedIn](https://www.linkedin.com/in/maddula-pavan/) · [Google Scholar](https://scholar.google.com/citations?user=oSYYRssAAAAJ&hl=en&oi=ao) · [ORCID](https://orcid.org/0009-0000-9352-488X) 
+mpavangopinadh@gmail.com · [pavanmaddula.com](https://pavanmaddula.com) · [LinkedIn](https://www.linkedin.com/in/maddula-pavan/) · [Google Scholar](https://scholar.google.com/citations?user=oSYYRssAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0000-9352-488X)
