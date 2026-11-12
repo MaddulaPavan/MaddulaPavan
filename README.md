@@ -1,6 +1,6 @@
 # Pavan Maddula
 
-**AI Research Engineer · Evals & AI Safety**
+**AI Researcher, Agents & Model Evaluations**
 
 India · [pavanmaddula.com](https://pavanmaddula.com) · [LinkedIn](https://www.linkedin.com/in/maddula-pavan/) · [Google Scholar](https://scholar.google.com/citations?user=oSYYRssAAAAJ&hl=en) · [X](https://x.com/PavanBuilds) · mpavangopinadh@gmail.com
 
